@@ -66,7 +66,7 @@
         <div class="video-card">
             <img src="./assets/img/star-wars.png" class="video-card-image" alt="">
             <video src="./assets/video/star-war.mp4" mute loop class="card-video"></video>
-        </div>
+        </diva
         <div class="video-card">
             <img src="./assets/img/geographic.png" class="video-card-image" alt="">
             <video src="./assets/video/geographic.mp4" mute loop class="card-video"></video>
@@ -90,7 +90,7 @@
             <div class="card">
                 <img src="./assets/img/poster 4.png" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Avengers nisha</h2>
+                    <h2 class="name">Avengers Triputi</h2>
                     <h6 class="des">Client ipsum dolor helo consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
